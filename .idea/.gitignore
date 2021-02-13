@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../spring-cloud-config-service\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\DELL\Desktop\DESKTOP_FILE\spring-boot-microservice\spring-cloud-config-service\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
